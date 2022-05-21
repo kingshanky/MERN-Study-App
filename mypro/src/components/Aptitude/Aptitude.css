@@ -1,0 +1,52 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.colour1{
+    background-color: white;
+}
+
+
+.Sty{
+    height: auto;
+    width: auto;
+ /*   background-color: rgb(199, 194, 193);   */
+   
+    margin-left: 70px;
+    margin-right: 70px;
+
+}
+
+
+.logo2{
+    height: 200px;
+    width: 200px;
+}
+
+
+.logo3{
+    height: 200px;
+    width: 200px;
+}
+
+.logo5{
+    height: 200px;
+    width: 200px;
+}
+
+.Books{
+     margin-left: 2px;;
+}
+
+
+
+.Heads{
+    margin-left: 450px;
+    font-size: 80px;
+   
+    
+    font-family: fantasy;
+
+   }

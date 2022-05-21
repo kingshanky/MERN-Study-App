@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+.Style1{
+    height: auto;
+    width: auto;
+ /*   background-color: rgb(199, 194, 193);   */
+    margin-left: 70px;
+    margin-right: 70px;
+
+}
+
+
+.color1{
+    background-color: white;
+}
+
+
+
+.imgdiv{
+    display: flex;
+}
+
+.logo{
+    width: 400px;
+    height: 200px;
+    margin-left: 10px;
+}
+
+
+
+.logo2{
+    
+    width: 400px;
+    height: 200px;
+    margin-left: 10px;
+}
+
+
+.logo3{
+    width: 400px;
+    height: 200px;
+    margin-left: 10px;
+}
+
+
+
+
+
+.Heading55{
+    margin-left: 400px;
+    font-size: 50px;  
+    font-family: fantasy;
+
+   }
+

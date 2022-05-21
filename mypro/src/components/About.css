@@ -1,0 +1,19 @@
+
+
+
+.img {
+    height: 325px;
+  
+     width: 500px;     
+     border-radius: 12px;
+}
+
+
+#about{
+    background: rgb(42, 42, 60);
+}
+
+
+.Text{
+    color: white
+}

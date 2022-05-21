@@ -1,0 +1,44 @@
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.colour11{
+    background-color: white;
+}
+
+/*
+.notes{
+    height: max-content;
+    width: max-content;
+      background-color: rgb(250, 250, 250);
+      
+  }
+
+  */
+  
+  .notes1{
+      height: auto;
+      width: auto;
+   /*   background-color: rgb(209, 203, 201);    */
+      margin-left: 70px;
+      margin-right: 70px;
+  }
+
+  .card1 {
+    width: 200px;
+    height: 1800px;
+}
+
+
+
+
+.Heads1{
+    margin-left: 450px;
+    font-size: 80px;  
+    font-family: fantasy;
+
+   }

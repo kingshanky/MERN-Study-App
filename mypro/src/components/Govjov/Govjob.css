@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+.Styles{
+    height: auto;
+    width: auto;
+ /*   background-color: rgb(199, 194, 193);      */
+    margin-left: 70px;
+    margin-right: 70px;
+
+}
+
+
+
+
+.colour1{
+    background-color: white;
+}
+
+
+
+
+
+
+.Heading2{
+    margin-left: 100px;
+    font-size: 80px;  
+    font-family: fantasy;
+
+   }
+
+

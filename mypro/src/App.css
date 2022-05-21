@@ -1,0 +1,45 @@
+
+/*  Home*/
+
+#home{
+  background: rgb(42, 42, 60);
+
+ /* background: linear-gradient(to left, #ff0291, #2d00f7);    */ 
+ 
+  min-height: 500px;
+}
+
+
+/*  Cards */
+
+.card{
+  transition: all 0.5s ease;;
+}
+
+.card:hover{
+  cursor: pointer;
+  box-shadow: 0 .5rem 1rem rgb(0, 0, 0, .15);
+}
+
+
+
+/*  Form   in loginPage*/
+.form{
+  background: rgb(70, 70, 136);
+  background: linear-gradient(90deg, rgb(68, 68, 161) 50%, rgb(93, 155, 212) 100%);
+
+}
+
+
+/* Footer */
+
+.footer{
+  background: rgb(70, 70, 136);
+  background: linear-gradient(90deg, rgb(50, 50, 158) 50%, rgb(73, 126, 175) 100%);
+}
+
+
+
+.App{
+  background: linear-gradient(to left, #ff0291, #2d00f7);
+}
